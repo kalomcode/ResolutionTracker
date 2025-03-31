@@ -6,8 +6,8 @@
 
 ### 📝 **Reading Challenge**  
 - Goal: **Read more than 6 books in English**  
-  ✅ 1. Eloquent JavaScript
-  - [x] 2. Atomic Habits
+  - [x] 1. Eloquent JavaScript ✔
+  - [x] 2. Atomic Habits ✔
   - [ ] 3.  
   - [ ] 4.  
   - [ ] 5.  
@@ -38,7 +38,7 @@
 
 ### 📈 **Skill Development**  
 - Goal: **Complete 5 online courses related to your field**  
-  - [x] 1. Angular Pro: Lleva tus bases al siguiente nivel  
+  - [x] 1. Angular Pro: Lleva tus bases al siguiente nivel ✔
   - [ ] 2.   
   - [ ] 3.   
   - [ ] 4.   
