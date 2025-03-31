@@ -6,7 +6,7 @@
 
 ### 📝 **Reading Challenge**  
 - Goal: **Read more than 6 books in English**  
-  - **[x]** 1. Eloquent JavaScript
+  - ✅ 1. Eloquent JavaScript
   - [x] 2. Atomic Habits
   - [ ] 3.  
   - [ ] 4.  
