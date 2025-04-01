@@ -39,7 +39,7 @@
 ### 📈 **Skill Development**  
 - Goal: **Complete 5 online courses related to your field**  
   - [x] 1. Angular Pro: Lleva tus bases al siguiente nivel ✔
-  - [ ] 2.   
+  - [x] 2. ReactiveX - RxJs: Desde cero hasta los detalles ✔
   - [ ] 3.   
   - [ ] 4.   
   - [ ] 5. 
